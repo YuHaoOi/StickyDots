@@ -1,0 +1,3 @@
+rootProject.name='StickyDots'
+include ':app'
+include ':stickydotslib'
